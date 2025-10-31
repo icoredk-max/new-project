@@ -9,7 +9,7 @@ h1 {
 }
 
 button {
-    background-color: green;  /* Локальное изменение */
+    background-color: orange;  /* Удаленное изменение */
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
