@@ -1,16 +1,23 @@
 body {
     font-family: Arial, sans-serif;
-    color: blue;
-    font-size: 16px;
+    color: red;          /* Изменили с blue на red */
+    font-size: 20px;     /* Изменили с 16px на 20px */
 }
 
 h1 {
-    color: darkblue;
+    color: darkred;      /* Изменили с darkblue на darkred */
 }
 
 button {
-    background-color: lightblue;
+    background-color: pink;  /* Изменили с lightblue на pink */
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
+}
+
+/* Добавим новый стиль */
+.new-section {
+    border: 2px solid gray;
+    padding: 10px;
+    margin: 10px 0;
 }
